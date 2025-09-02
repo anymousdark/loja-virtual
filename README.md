@@ -6,7 +6,6 @@ Aqui você encontra uma estrutura leve, rápida e fácil de personalizar — ide
 🎨 Destaques:
 ⚡ Carregamento super rápido com Vite
 
-🧠 Layout moderno criado por inteligência artificial
 
 📱 Totalmente responsivo (mobile, tablet e desktop)
 
